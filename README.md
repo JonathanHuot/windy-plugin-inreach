@@ -16,6 +16,11 @@ Generate your own API Key at https://api4.windy.com, then search & replace the `
 
 Then, you have to update manually a MapShare feed (in KML format) and rename it `example-mapshare.kml`. & Enjoy!
 
+# Screenshot
+
+Screenshot with the `example-mapshare.kml` attached to the project:
+
+![windy-plugin-inreach with KML trace enable](/screenshot.png?raw=true "windy-plugin-inreach example")
 
 # Future improvement
 
